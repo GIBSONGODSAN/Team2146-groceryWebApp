@@ -1,6 +1,3 @@
-Here’s a comprehensive `README.md` file for your MERN shopping cart app:  
-
-```markdown
 # Grocery Store Shopping Cart App
 
 This is a **MERN (MongoDB, Express, React, Node.js)** stack application that serves as a fully functional shopping cart system for a grocery store. It includes both backend and frontend implementations, along with various tools and features for deployment and development.
